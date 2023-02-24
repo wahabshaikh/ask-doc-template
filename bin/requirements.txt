@@ -1,0 +1,5 @@
+pandas
+openai
+pinecone
+pypdf2
+tqdm
